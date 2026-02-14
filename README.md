@@ -1,17 +1,18 @@
-# mini_katalog
+# Mini Katalog
 
-A new Flutter project.
+Bu proje Flutter ile yapılmış bir mobil katalog uygulamasıdır.  
+Kullanıcı ürünleri görebilir, detaylarını inceleyebilir ve favorilere ekleyebilir.
 
-## Getting Started
+## Ekran Görüntüleri
 
-This project is a starting point for a Flutter application.
+![Ana Ekran](assets/screenshots/AnaEkran.png)
+![Detay Ekranı](assets/screenshots/Detay.png)
+![Sepet Ekranı](assets/screenshots/Sepetim.png)
+![Favorilerim Ekranı](assets/screenshots/Favorilerim.png)
+![SepetBoş Ekranı](assets/screenshots/SepetBos.png)
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum ve Kullanım
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Flutter bağımlılıklarını yükleyin:
+   ```bash
+   flutter pub get
